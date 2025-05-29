@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Productos del Supermercado</title>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <h1>Consulta de Productos</h1>
+  <form id="formulario">
+    <label for="categoria">Selecciona una categoría:</label>
+    <select id="categoria">
+      <option value="Congelados">Congelados</option>
+      <option value="Fruta">Fruta</option>
+      <option value="Verdura">Verdura</option>
+      <option value="Bebidas">Bebidas</option>
+    </select>
+    <button type="button" onclick="cargarDatos()">Seleccionar</button>
+  </form>
+  <h2>Resultados:</h2>
+  <div id="resultados"></div>
+</body>
+</html>
