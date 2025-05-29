@@ -1,0 +1,60 @@
+<supermercado>
+  <producto categoria="Congelados">
+    <nombre>Pechugas de pollo</nombre>
+    <peso>1.2</peso>
+    <precio>6.50</precio>
+    <caducidad>2025-10-15</caducidad>
+  </producto>
+  <producto categoria="Congelados">
+    <nombre>Verduras mixtas</nombre>
+    <peso>0.75</peso>
+    <precio>2.30</precio>
+    <caducidad>2026-01-10</caducidad>
+  </producto>
+  <producto categoria="Congelados">
+    <nombre>Pizza cuatro quesos</nombre>
+    <peso>0.45</peso>
+    <precio>3.99</precio>
+    <caducidad>2025-12-05</caducidad>
+  </producto>
+  <producto categoria="Fruta">
+    <nombre>Manzanas Fuji</nombre>
+    <peso>1.0</peso>
+    <precio>2.80</precio>
+    <caducidad>2025-05-30</caducidad>
+  </producto>
+  <producto categoria="Fruta">
+    <nombre>Plátanos</nombre>
+    <peso>1.2</peso>
+    <precio>2.10</precio>
+    <caducidad>2025-05-27</caducidad>
+  </producto>
+  <producto categoria="Verdura">
+    <nombre>Lechuga romana</nombre>
+    <peso>0.4</peso>
+    <precio>1.10</precio>
+    <caducidad>2025-05-25</caducidad>
+  </producto>
+  <producto categoria="Verdura">
+    <nombre>Zanahorias</nombre>
+    <peso>1.0</peso>
+    <precio>1.50</precio>
+    <caducidad>2025-06-01</caducidad>
+  </producto>
+  <producto categoria="Bebidas">
+    <nombre>Agua mineral 1.5L</nombre>
+    <volumen>1.5</volumen>
+    <precio>0.60</precio>
+  </producto>
+  <producto categoria="Bebidas">
+    <nombre>Refresco cola</nombre>
+    <volumen>2.0</volumen>
+    <precio>1.25</precio>
+  </producto>
+  <producto categoria="Bebidas">
+    <nombre>Zumo de naranja</nombre>
+    <volumen>1.0</volumen>
+    <precio>1.75</precio>
+    <caducidad>2025-08-20</caducidad>
+  </producto>
+</supermercado>
