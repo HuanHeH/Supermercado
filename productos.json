@@ -1,0 +1,12 @@
+[
+  {"categoria": "Congelados", "nombre": "Pechugas de pollo", "peso": 1.2, "precio": 6.50, "caducidad": "2025-10-15"},
+  {"categoria": "Congelados", "nombre": "Verduras mixtas", "peso": 0.75, "precio": 2.30, "caducidad": "2026-01-10"},
+  {"categoria": "Congelados", "nombre": "Pizza cuatro quesos", "peso": 0.45, "precio": 3.99, "caducidad": "2025-12-05"},
+  {"categoria": "Fruta", "nombre": "Manzanas Fuji", "peso": 1.0, "precio": 2.80, "caducidad": "2025-05-30"},
+  {"categoria": "Fruta", "nombre": "Plátanos", "peso": 1.2, "precio": 2.10, "caducidad": "2025-05-27"},
+  {"categoria": "Verdura", "nombre": "Lechuga romana", "peso": 0.4, "precio": 1.10, "caducidad": "2025-05-25"},
+  {"categoria": "Verdura", "nombre": "Zanahorias", "peso": 1.0, "precio": 1.50, "caducidad": "2025-06-01"},
+  {"categoria": "Bebidas", "nombre": "Agua mineral 1.5L", "volumen": 1.5, "precio": 0.60},
+  {"categoria": "Bebidas", "nombre": "Refresco cola", "volumen": 2.0, "precio": 1.25},
+  {"categoria": "Bebidas", "nombre": "Zumo de naranja", "volumen": 1.0, "precio": 1.75, "caducidad": "2025-08-20"}
+]
